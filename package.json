@@ -1,0 +1,39 @@
+{
+  "name": "ui_style_guide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dacicus75/UI_Style_Guide.git"
+  },
+  "author": "Daniel Ardelean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dacicus75/UI_Style_Guide/issues"
+  },
+  "homepage": "https://github.com/dacicus75/UI_Style_Guide#readme",
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
