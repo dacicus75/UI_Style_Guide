@@ -1,9 +1,9 @@
-// index.js
+
 
 // Import dependencies
 import React from 'react'
 import ReactDOM from 'react-dom'
-import styled, { createGlobalStyle} from 'styled-components'
+import styled, { createGlobalStyle } from 'styled-components'
 
 // Import style guide components
 // import Buttons from './components/buttons'
