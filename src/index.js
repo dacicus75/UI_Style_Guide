@@ -9,9 +9,9 @@ import styled, { createGlobalStyle } from 'styled-components'
 import { colors, sizes } from './variables'
 
 // Import style guide components
-// import Buttons from './components/buttons'
+ import Buttons from './components/buttons'
  import Colors from './components/colors'
-// import Forms from './components/forms'
+ import Forms from './components/forms'
  import Typography from './components/typography'
 
 // Global styles and resets
@@ -106,11 +106,11 @@ class App extends React.Component {
 
         <StyleguideSubheading>Buttons</StyleguideSubheading> 
 
-        {/* <Buttons />
+         <Buttons />
 
         <StyleguideSubheading>Forms</StyleguideSubheading>
 
-        <Forms /> */} 
+        <Forms /> 
       </AppContainer>
     )
   }
