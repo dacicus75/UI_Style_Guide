@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/dacicus75/UI_Style_Guide/static/js/main.ba52e7d1.chunk.js",
+    "main.js.map": "/dacicus75/UI_Style_Guide/static/js/main.ba52e7d1.chunk.js.map",
+    "runtime-main.js": "/dacicus75/UI_Style_Guide/static/js/runtime-main.acdcdac1.js",
+    "runtime-main.js.map": "/dacicus75/UI_Style_Guide/static/js/runtime-main.acdcdac1.js.map",
+    "static/js/2.7e79101a.chunk.js": "/dacicus75/UI_Style_Guide/static/js/2.7e79101a.chunk.js",
+    "static/js/2.7e79101a.chunk.js.map": "/dacicus75/UI_Style_Guide/static/js/2.7e79101a.chunk.js.map",
+    "index.html": "/dacicus75/UI_Style_Guide/index.html",
+    "precache-manifest.2549e821b109a567dcc1e0450716e4cc.js": "/dacicus75/UI_Style_Guide/precache-manifest.2549e821b109a567dcc1e0450716e4cc.js",
+    "service-worker.js": "/dacicus75/UI_Style_Guide/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.acdcdac1.js",
+    "static/js/2.7e79101a.chunk.js",
+    "static/js/main.ba52e7d1.chunk.js"
+  ]
+}
